@@ -31,19 +31,14 @@
 
 # python的学习
 ## python学习网站
-- ![莫凡python (视频)](https://mofanpy.com/tutorials/python-basic/interactive-python/)
+- [莫凡python (视频)](https://mofanpy.com/tutorials/python-basic/interactive-python/)
 
-- 菜鸟教程 (博客)
+- [菜鸟教程 (博客)](https://www.runoob.com/python/att-list-count.html)
 
-https://www.runoob.com/python/att-list-count.html
-
-- 仓库(照着刷)
-
-https://github.com/jackfrued/Python-100-Days
+- [python教程仓库(照着刷)](https://github.com/jackfrued/Python-100-Days)
 
 ## python书籍
-- python Cookbook
-https://blog.csdn.net/qq_37899132/article/details/86668451
+- [python Cookbook]
 
 - Python编程:从入门到实践
 
@@ -57,10 +52,8 @@ https://blog.csdn.net/qq_37899132/article/details/86668451
 我个人的编程路径是从c语言->java->c++->python
 
 推荐可以先学java，我当时java是看的韩顺平老师的课，当时恰逢暑假，在家闲着没事，心思多学一门语言肯定有益无害
-- 韩顺平 java课
+- 韩顺平 java课  [百度网盘](https://pan.baidu.com/s/12Ut-SnSZQZfLAYVkmLmq-w) 提取码：fcht
 
-链接：https://pan.baidu.com/s/12Ut-SnSZQZfLAYVkmLmq-w 
-提取码：fcht
 
 # 算法与数据结构
 
@@ -79,18 +72,22 @@ https://blog.csdn.net/qq_37899132/article/details/86668451
 https://leetcode-cn.com/
 
 ## 各种类别非常非常牛逼&通俗易懂的文章汇总(保准能看懂，主要都是python)
-- 八大排序算法(冒泡，快速，直接插入，希尔，简单选择，堆，归并，以及基数排序): https://cuijiahua.com/blog/2018/01/alogrithm_9.html
-- 动态规划之背包问题系列:https://www.zhihu.com/people/tang-shu-sen-77
-- 二分查找算法： https://www.cnblogs.com/kyoner/p/11080078.html
-- 回溯算法：https://leetcode-cn.com/problems/permutations/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liweiw/
+- [八大排序算法(冒泡，快速，直接插入，希尔，简单选择，堆，归并，以及基数排序)](https://cuijiahua.com/blog/2018/01/alogrithm_9.html)
+- [动态规划之背包问题系列](https://www.zhihu.com/people/tang-shu-sen-77)
+- [二分查找算](https://www.cnblogs.com/kyoner/p/11080078.html)
+- [回溯算法](https://leetcode-cn.com/problems/permutations/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liweiw/)
 
 # 数据处理常用的一些库
 这些库整体来说应用十分广泛，在平时的数据分析中(不过主要限制于学生时代，公司可能直接用某种工具平台，sql等进行处理)
 
-- pandas中文教程 https://github.com/datawhalechina/joyful-pandas
-pandas的学习我建议大家先不用太多时间，整体文档以最快的速度过一下就行，
+- [pandas中文教程](https://github.com/datawhalechina/joyful-pandas)
+- [numpy中文教程](https://mp.weixin.qq.com/s?__biz=MzA4ODUxNjUzMQ==&mid=2247484468&idx=1&sn=8056ab031a2c31ced9a53417ac007220&chksm=9029b6e8a75e3ffe42ec833dc271dd846971a9ad89fbc771eb818a7b650a96da6d0cc45aed4a&token=1834414134&lang=zh_CN#rd)
+- [matplotlib中文教程](https://zhuanlan.zhihu.com/p/139052035)
+
+## 一些嘱咐
+pandas的学习我建议大家先不用太多时间，整体文档以最快的速度过一下就行，常用的主要是读数据，groupby聚合,apply自定义函数，concat链接等
+
 
 # git
-强烈建议就看这篇就行了，基本上学习工作过程中主要就是这些命令，这些掌握基本上平时就ok了。
+强烈建议就看这篇[简易git教程](https://www.bootcss.com/p/git-guide/)就行了，基本上学习工作过程中主要就是这些命令，这些掌握基本上平时就ok了。
 
-https://www.bootcss.com/p/git-guide/
